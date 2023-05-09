@@ -1,0 +1,13 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage{graphicx}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\graphicspath{ {./} }
+\begin{document}
+\begin{center}
+    \includegraphics[width=10cm]{ "IMAGETOPUT" }
+\end{center}
+
+
+
+\end{document}
